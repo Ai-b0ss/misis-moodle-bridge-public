@@ -1,5 +1,7 @@
 # MISIS Moodle Bridge
 
+[![Public verification](https://github.com/Ai-b0ss/misis-moodle-bridge-public/actions/workflows/verify-public.yml/badge.svg)](https://github.com/Ai-b0ss/misis-moodle-bridge-public/actions/workflows/verify-public.yml)
+
 **AI-агент получает доступ к учебному порталу, находит нужные материалы и помогает разбирать задания непосредственно в диалоге.**
 
 Локальный Python-клиент для **Moodle МИСИС (`newlms.misis.ru`)**. Связывает языковую модель с курсами, заданиями, сроками, оценками и учебными документами с учётом прав авторизованного пользователя.
