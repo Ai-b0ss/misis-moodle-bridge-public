@@ -22,6 +22,7 @@ jobs:
       - name: Compile source files
         run: python -m compileall -q .
       - name: Isolated client unit tests (no Moodle login)
-        run: python -m unittest test_client -q
+        run: python -X utf8 -m unittest test_client -q
         env:
           MOODLE_OFFLINE: '1'
+          PYTHONIOENCODING: utf-8
