@@ -1,0 +1,27 @@
+name: Public verification
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  unit:
+    runs-on: windows-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - name: Compile source files
+        run: python -m compileall -q .
+      - name: Isolated client unit tests (no Moodle login)
+        run: python -m unittest test_client -q
+        env:
+          MOODLE_OFFLINE: '1'
