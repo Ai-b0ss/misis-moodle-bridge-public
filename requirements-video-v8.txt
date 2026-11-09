@@ -1,0 +1,9 @@
+# Tested 2026-10-24 in MISIS Moodle hybrid-v8
+# Install only if missing. Video/audio files and Whisper weights are NOT bundled.
+openai-whisper==20250625
+torch==2.9.1
+numpy==2.4.6
+playwright==1.61.0
+# Required native executable: FFmpeg with ffmpeg on PATH.
+# Model: ~/.cache/whisper/base.pt, already cached on configured home PC.
+# The indexer refuses to download model weights automatically.

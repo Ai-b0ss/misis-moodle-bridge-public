@@ -1,0 +1,205 @@
+{
+  "release": "misis-moodle-bridge-v10-source",
+  "release_date": "2026-10-25",
+  "scope": "source_only_no_tokens_no_dpapi_no_browser_profile",
+  "status": "core_ready;real_browser_session_unverified",
+  "tests_passed": 99,
+  "files": {
+    "HYBRID_README_2026-10-24.md": {
+      "sha256": "fbbcc68671495c8ac32a504138fc757ba245871f19ba39b03bcd3b02128cb72e",
+      "size": 11560
+    },
+    "MISIS-Moodle-Web-Login.cmd": {
+      "sha256": "484ae1f388c2d88b6ce890dfce92f93d4888e125870ac99b2559066ddee537ef",
+      "size": 171
+    },
+    "moodle_browser.py": {
+      "sha256": "579af7b4a79e0e7a697fee571c8b34576ec8d6677fd110e9c9060faab392baca",
+      "size": 9166
+    },
+    "moodle_client.py": {
+      "sha256": "795e5b040023149aec83e0a5d56471e513b9f6d29693fad5015414928e06ccbc",
+      "size": 18062
+    },
+    "moodle_drive.py": {
+      "sha256": "a0fe9dd058320da0645dc1f5c28690aae927562ad8f1e0dc68635851f389919d",
+      "size": 9900
+    },
+    "moodle_embed_visibility.py": {
+      "sha256": "427c53bb03377b859c7ab4d49853a9794a4762b1d616c343eed6c5467f5e21a7",
+      "size": 2532
+    },
+    "moodle_extended.py": {
+      "sha256": "c898e9fb60ae0e61c7574d26f31565f4bd4175de78fc093592b313824f743000",
+      "size": 17858
+    },
+    "moodle_h5p.py": {
+      "sha256": "6fbc62107d3df40a1969e83832aa04da2c3f3d8c612d8eb3b0cc66edc3c6f13e",
+      "size": 8236
+    },
+    "moodle_hybrid.py": {
+      "sha256": "c0681e02ed9e76da591e4818ffe83dfa4c98c49e9612ab3bff2712715b18adb3",
+      "size": 14488
+    },
+    "moodle_lessons.py": {
+      "sha256": "533c0956e7f5e697400d0be73a6fca2550cfb3b023f8cd92a06f07d54cc751f4",
+      "size": 8056
+    },
+    "moodle_materials.py": {
+      "sha256": "cd6c56aabf4efd3343a5da0918c6776df731cd537770cf72b19b60bdefb25c16",
+      "size": 17529
+    },
+    "moodle_ocr.py": {
+      "sha256": "457740abd4cffd603d68e033a71e9d5f62851c15e2470ec8cb8034ea4ca9de92",
+      "size": 3083
+    },
+    "moodle_ocr_worker.py": {
+      "sha256": "67edcf2b02743a07b0c1c2ef65532151add51199cf4703b43ad8bd5052c69428",
+      "size": 2206
+    },
+    "moodle_ppt_worker.py": {
+      "sha256": "996724f6ad15c7fb35645854d716dc552475f457b45970eb7073b5270df1fce6",
+      "size": 2671
+    },
+    "moodle_slides.py": {
+      "sha256": "ca7d228c486e4156137ee22254c5bd55a677d85daac161f554afd17d662cf917",
+      "size": 14314
+    },
+    "moodle_videos.py": {
+      "sha256": "6f3386d4d3271d49df7ec7f80d989c9f000258d44eed6b5e56fc003f315c8831",
+      "size": 11032
+    },
+    "moodle_yadisk.py": {
+      "sha256": "4f4fa510593925f66ced4db5656a8c4f9ae3da3ff1ec3bb0e8b2a6a137028ad9",
+      "size": 12509
+    },
+    "RELEASE_MANIFEST_V10.json": {
+      "sha256": "013d3260b1bcd62d28bd89e725b70a83a17a638296a16044342b3ab447d56aaa",
+      "size": 7362
+    },
+    "RELEASE_MANIFEST_V9.json": {
+      "sha256": "70fcbd0240462b3319c280542501e6e2c850df0176fe007e65eb11de1aefe0f7",
+      "size": 14929
+    },
+    "RELEASE_V10_BROWSER_STATUS_2026-10-25.md": {
+      "sha256": "d26c8979098296b6efbea457b500cb3f3add6d987ff87d69576945fef66cc9d6",
+      "size": 7311
+    },
+    "RELEASE_V5_H5P_2026-10-24.md": {
+      "sha256": "b3a0369f9195d4365574a0cbe666eaa0becf986fdf1e9a62997902c492ae7b99",
+      "size": 2825
+    },
+    "RELEASE_V6_YADISK_2026-10-24.md": {
+      "sha256": "ea3f451fdb0df4c8bbeaacfcf4339658893d991c18591e07940e30122c5104a5",
+      "size": 5068
+    },
+    "RELEASE_V7_OCR_BROWSER_2026-10-24.md": {
+      "sha256": "91aff77e7536c0415509a34824aa54a0bfe1d42d2cdd93f7d4943a89b685eb61",
+      "size": 5370
+    },
+    "RELEASE_V8_VIDEO_SLIDES_2026-10-24.md": {
+      "sha256": "372027a3ac7c0df07b5a20b207ff010693e61fab31c68fce80abb2649c605e17",
+      "size": 7415
+    },
+    "RELEASE_V9_SLIDES_VIDEO_2026-10-25.md": {
+      "sha256": "b28674ad2786b4368783e9c3ef6e0ce5c8fea53578ff177e1dbce40798d59b1e",
+      "size": 5921
+    },
+    "REMAINING_LIMITATIONS_2026-10-24.md": {
+      "sha256": "8ac754851f771bedddf73569c291fbfe02f1e3be75484b67b7ec18dd829c7994",
+      "size": 6920
+    },
+    "requirements-ocr.txt": {
+      "sha256": "6f82766f0cfc502c0eca535d6dd3888a1efef47f7ef7327a58f447ed69c6af85",
+      "size": 134
+    },
+    "requirements-video-v8.txt": {
+      "sha256": "ac737201ed4b2d37262a6b604037ecc8715b683dd9186d5e7d426284f66cde59",
+      "size": 392
+    },
+    "skill/API_RECIPES.md": {
+      "sha256": "5570bdc93e39012401d6c410ed2ce5a0acad8445cdff5845ae82e48d2a811dcd",
+      "size": 17181
+    },
+    "skill/SKILL.md": {
+      "sha256": "ecc70dbb63a96ceab47511dfb690aee97c0e1953d6098a0c34fdf266d8387bbd",
+      "size": 55992
+    },
+    "skill/validate_skill.py": {
+      "sha256": "52127c95490a62bc9342082b71ff9c6e105355c7230dbcc066ffc8f8fa9a831d",
+      "size": 827
+    },
+    "test_browser_autosave_v10.py": {
+      "sha256": "2481312509397fcdd6e3d3a52b7458bbf8df7e778e508cf2cfa1f21e9927466c",
+      "size": 1888
+    },
+    "test_browser_session_v10.py": {
+      "sha256": "be0d2c8032248f6ac390e7a2d10788e540bf4d79e48bcca63cd914fb947a657a",
+      "size": 2009
+    },
+    "test_client.py": {
+      "sha256": "9430c0bad6966a17a6cb0c6069b1189cf9b3d5d7e20d0f3bd9ea9b6f69ca4e29",
+      "size": 3682
+    },
+    "test_drive.py": {
+      "sha256": "33693cdf182a382ddcf6ac029871f2c9bf7e8d626e1111d416f08b489b2f164b",
+      "size": 2960
+    },
+    "test_embed_visibility_v8.py": {
+      "sha256": "ed0dd90836832988225bfd0b70c926f9378f8a90fc5288c34ab63725893e0c2b",
+      "size": 1954
+    },
+    "test_extended.py": {
+      "sha256": "310bc103f568a27f9a5ac4f4693d2608ee80142f4a7577f5ae7e36e098d66858",
+      "size": 7637
+    },
+    "test_h5p_v5.py": {
+      "sha256": "4527ff0966033e30245ab3e014991dc3ed19aee67cfa2bc941b917fd411436b0",
+      "size": 2494
+    },
+    "test_hybrid.py": {
+      "sha256": "6da2565dda3af3a6aab955f1359da91347f0b79353d8014ba56b1672621e8fd9",
+      "size": 6745
+    },
+    "test_hybrid_v9.py": {
+      "sha256": "3d2bfaa4336cc9948898acfd4a53ed9b098531042a2a6a4015059e7578f5d5fb",
+      "size": 4099
+    },
+    "test_materials.py": {
+      "sha256": "3178e8c1440f3ed20e2b3324f8a7b8dae8e6629b8abc9e610931345a68d1f82e",
+      "size": 6183
+    },
+    "test_mixed_ocr_v7.py": {
+      "sha256": "0d94a6e03f64fb44aae5859fd4d2e08008962ab410e027c9fb1dde10a341327b",
+      "size": 1175
+    },
+    "test_ocr.py": {
+      "sha256": "a947cce8d0f7b9e64a379c4738698d264ff6e6f7fc7ae36ae9136d4bb503da80",
+      "size": 1438
+    },
+    "test_ppt.py": {
+      "sha256": "cf9ff7606e841e93521142d46c532ae1d650c647fa875a98f2763720f0526999",
+      "size": 1392
+    },
+    "test_proxy_fallback_v8.py": {
+      "sha256": "36350f7dbdf5769457bea6e569f161d0525f29235869cbb0d5386155358b4b0b",
+      "size": 2448
+    },
+    "test_slides.py": {
+      "sha256": "c5bd8d83f1faaffd2c4ea9ed171445818238f019f967b85c285d9bc5cd620499",
+      "size": 3928
+    },
+    "test_videos_v8.py": {
+      "sha256": "509f009e7f2820024ab3a4630e1eea25399fec72dff11383ab89f95d999eeaa1",
+      "size": 2548
+    },
+    "test_yadisk_v6.py": {
+      "sha256": "79487ac032f00cfc4df6994d87a305ea56db8bd1e07eeb829440e4b221af2658",
+      "size": 4600
+    },
+    "UPGRADE_2026-10-24.md": {
+      "sha256": "66fb30d5e3430cedb874b0f120107523c1e7822407e28de831dc180ff96179ef",
+      "size": 7488
+    }
+  }
+}

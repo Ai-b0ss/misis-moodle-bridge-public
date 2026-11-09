@@ -1,0 +1,313 @@
+{
+    "release":  "hybrid-v9",
+    "date":  "2026-10-25",
+    "tests_passed":  95,
+    "courses":  7,
+    "assignments":  77,
+    "slides_total":  39,
+    "slides_completed":  32,
+    "slides_records":  691,
+    "slides_unavailable":  7,
+    "videos_transcribed":  3,
+    "video_audio_minutes":  10.35,
+    "video_segments":  120,
+    "public_vtt_found_but_not_downloaded":  true,
+    "no_secrets":  true,
+    "files":  [
+                  {
+                      "file":  "HYBRID_README_2026-10-24.md",
+                      "bytes":  11560,
+                      "sha256":  "FBBCC68671495C8AC32A504138FC757BA245871F19BA39B03BCD3B02128CB72E"
+                  },
+                  {
+                      "file":  "MISIS-Moodle-Web-Login.cmd",
+                      "bytes":  163,
+                      "sha256":  "5C29806A30A2F16C6730BE3F53C2B877044A0F36EB1BAB9085779790B8AF2EA9"
+                  },
+                  {
+                      "file":  "moodle_browser.py",
+                      "bytes":  5838,
+                      "sha256":  "1BB1D034E3ACC70BF7901CF783702B9765E6411F178699BF5B88778907796417"
+                  },
+                  {
+                      "file":  "moodle_client.py",
+                      "bytes":  18062,
+                      "sha256":  "795E5B040023149AEC83E0A5D56471E513B9F6D29693FAD5015414928E06CCBC"
+                  },
+                  {
+                      "file":  "moodle_drive.py",
+                      "bytes":  9900,
+                      "sha256":  "A0FE9DD058320DA0645DC1F5C28690AAE927562AD8F1E0DC68635851F389919D"
+                  },
+                  {
+                      "file":  "moodle_embed_visibility.py",
+                      "bytes":  2532,
+                      "sha256":  "427C53BB03377B859C7AB4D49853A9794A4762B1D616C343EED6C5467F5E21A7"
+                  },
+                  {
+                      "file":  "moodle_extended.py",
+                      "bytes":  17858,
+                      "sha256":  "C898E9FB60AE0E61C7574D26F31565F4BD4175DE78FC093592B313824F743000"
+                  },
+                  {
+                      "file":  "moodle_h5p.py",
+                      "bytes":  8236,
+                      "sha256":  "6FBC62107D3DF40A1969E83832AA04DA2C3F3D8C612D8EB3B0CC66EDC3C6F13E"
+                  },
+                  {
+                      "file":  "moodle_hybrid.py",
+                      "bytes":  14489,
+                      "sha256":  "C470F156A483CC8E3D1B1350E3FC07D3B36BFF570C612A01EEA22038FBD8BE89"
+                  },
+                  {
+                      "file":  "moodle_lessons.py",
+                      "bytes":  8056,
+                      "sha256":  "533C0956E7F5E697400D0BE73A6FCA2550CFB3B023F8CD92A06F07D54CC751F4"
+                  },
+                  {
+                      "file":  "moodle_materials.py",
+                      "bytes":  17529,
+                      "sha256":  "CD6C56AABF4EFD3343A5DA0918C6776DF731CD537770CF72B19B60BDEFB25C16"
+                  },
+                  {
+                      "file":  "moodle_ocr.py",
+                      "bytes":  3083,
+                      "sha256":  "457740ABD4CFFD603D68E033A71E9D5F62851C15E2470EC8CB8034EA4CA9DE92"
+                  },
+                  {
+                      "file":  "moodle_ocr_worker.py",
+                      "bytes":  2151,
+                      "sha256":  "A329F1C1B0CE5D9719DDFB8E8A949B8536116C4291F64227AF0245F0F087B01F"
+                  },
+                  {
+                      "file":  "moodle_ppt_worker.py",
+                      "bytes":  2594,
+                      "sha256":  "7D53B5E1E1CA9F674846175927278568610F7A73C6D395DE0EE4D8DDDB54A147"
+                  },
+                  {
+                      "file":  "moodle_slides.py",
+                      "bytes":  14314,
+                      "sha256":  "CA7D228C486E4156137EE22254C5BD55A677D85DAAC161F554AFD17D662CF917"
+                  },
+                  {
+                      "file":  "moodle_videos.py",
+                      "bytes":  11032,
+                      "sha256":  "6F3386D4D3271D49DF7EC7F80D989C9F000258D44EED6B5E56FC003F315C8831"
+                  },
+                  {
+                      "file":  "moodle_yadisk.py",
+                      "bytes":  12509,
+                      "sha256":  "4F4FA510593925F66CED4DB5656A8C4F9AE3DA3FF1EC3BB0E8B2A6A137028AD9"
+                  },
+                  {
+                      "file":  "RELEASE_V5_H5P_2026-10-24.md",
+                      "bytes":  2825,
+                      "sha256":  "B3A0369F9195D4365574A0CBE666EAA0BECF986FDF1E9A62997902C492AE7B99"
+                  },
+                  {
+                      "file":  "RELEASE_V6_YADISK_2026-10-24.md",
+                      "bytes":  5068,
+                      "sha256":  "EA3F451FDB0DF4C8BBEAACFCF4339658893D991C18591E07940E30122C5104A5"
+                  },
+                  {
+                      "file":  "RELEASE_V7_OCR_BROWSER_2026-10-24.md",
+                      "bytes":  5370,
+                      "sha256":  "91AFF77E7536C0415509A34824AA54A0BFE1D42D2CDD93F7D4943A89B685EB61"
+                  },
+                  {
+                      "file":  "RELEASE_V8_VIDEO_SLIDES_2026-10-24.md",
+                      "bytes":  7415,
+                      "sha256":  "372027A3AC7C0DF07B5A20B207FF010693E61FAB31C68FCE80ABB2649C605E17"
+                  },
+                  {
+                      "file":  "RELEASE_V9_SLIDES_VIDEO_2026-10-25.md",
+                      "bytes":  5921,
+                      "sha256":  "B28674AD2786B4368783E9C3EF6E0CE5C8FEA53578FF177E1DBCE40798D59B1E"
+                  },
+                  {
+                      "file":  "REMAINING_LIMITATIONS_2026-10-24.md",
+                      "bytes":  6920,
+                      "sha256":  "8AC754851F771BEDDDF73569C291FBFE02F1E3BE75484B67B7EC18DD829C7994"
+                  },
+                  {
+                      "file":  "requirements-ocr.txt",
+                      "bytes":  134,
+                      "sha256":  "6F82766F0CFC502C0ECA535D6DD3888A1EFEF47F7EF7327A58F447ED69C6AF85"
+                  },
+                  {
+                      "file":  "requirements-video-v8.txt",
+                      "bytes":  392,
+                      "sha256":  "AC737201ED4B2D37262A6B604037ECC8715B683DD9186D5E7D426284F66CDE59"
+                  },
+                  {
+                      "file":  "test_client.py",
+                      "bytes":  3682,
+                      "sha256":  "9430C0BAD6966A17A6CB0C6069B1189CF9B3D5D7E20D0F3BD9EA9B6F69CA4E29"
+                  },
+                  {
+                      "file":  "test_drive.py",
+                      "bytes":  2960,
+                      "sha256":  "33693CDF182A382DDCF6AC029871F2C9BF7E8D626E1111D416F08B489B2F164B"
+                  },
+                  {
+                      "file":  "test_embed_visibility_v8.py",
+                      "bytes":  1954,
+                      "sha256":  "ED0DD90836832988225BFD0B70C926F9378F8A90FC5288C34AB63725893E0C2B"
+                  },
+                  {
+                      "file":  "test_extended.py",
+                      "bytes":  7637,
+                      "sha256":  "310BC103F568A27F9A5AC4F4693D2608EE80142F4A7577F5AE7E36E098D66858"
+                  },
+                  {
+                      "file":  "test_h5p_v5.py",
+                      "bytes":  2494,
+                      "sha256":  "4527FF0966033E30245AB3E014991DC3ED19AEE67CFA2BC941B917FD411436B0"
+                  },
+                  {
+                      "file":  "test_hybrid.py",
+                      "bytes":  6745,
+                      "sha256":  "6DA2565DDA3AF3A6AAB955F1359DA91347F0B79353D8014BA56B1672621E8FD9"
+                  },
+                  {
+                      "file":  "test_hybrid_v9.py",
+                      "bytes":  4099,
+                      "sha256":  "3D2BFAA4336CC9948898ACFD4A53ED9B098531042A2A6A4015059E7578F5D5FB"
+                  },
+                  {
+                      "file":  "test_materials.py",
+                      "bytes":  6183,
+                      "sha256":  "3178E8C1440F3ED20E2B3324F8A7B8DAE8E6629B8ABC9E610931345A68D1F82E"
+                  },
+                  {
+                      "file":  "test_mixed_ocr_v7.py",
+                      "bytes":  1175,
+                      "sha256":  "0D94A6E03F64FB44AAE5859FD4D2E08008962AB410E027C9FB1DDE10A341327B"
+                  },
+                  {
+                      "file":  "test_ocr.py",
+                      "bytes":  1438,
+                      "sha256":  "A947CCE8D0F7B9E64A379C4738698D264FF6E6F7FC7AE36AE9136D4BB503DA80"
+                  },
+                  {
+                      "file":  "test_ppt.py",
+                      "bytes":  1357,
+                      "sha256":  "2FB299F2BE4911D46F69057E20085F437072F8B72DCADC652A8C5A3B9E374DFD"
+                  },
+                  {
+                      "file":  "test_proxy_fallback_v8.py",
+                      "bytes":  2448,
+                      "sha256":  "36350F7DBDF5769457BEA6E569F161D0525F29235869CBB0D5386155358B4B0B"
+                  },
+                  {
+                      "file":  "test_slides.py",
+                      "bytes":  3928,
+                      "sha256":  "C5BD8D83F1FAAFFD2C4EA9ED171445818238F019F967B85C285D9BC5CD620499"
+                  },
+                  {
+                      "file":  "test_videos_v8.py",
+                      "bytes":  2548,
+                      "sha256":  "509F009E7F2820024AB3A4630E1EEA25399FEC72DFF11383AB89F95D999EEAA1"
+                  },
+                  {
+                      "file":  "test_yadisk_v6.py",
+                      "bytes":  4600,
+                      "sha256":  "79487AC032F00CFC4DF6994D87A305EA56DB8BD1E07EEB829440E4B221AF2658"
+                  },
+                  {
+                      "file":  "UPGRADE_2026-10-24.md",
+                      "bytes":  7488,
+                      "sha256":  "66FB30D5E3430CEDB874B0F120107523C1E7822407E28DE831DC180FF96179EF"
+                  },
+                  {
+                      "file":  "skill\\API_RECIPES.md",
+                      "bytes":  17181,
+                      "sha256":  "5570BDC93E39012401D6C410ED2CE5A0ACAD8445CDFF5845AE82E48D2A811DCD"
+                  },
+                  {
+                      "file":  "skill\\SKILL.md",
+                      "bytes":  55992,
+                      "sha256":  "ECC70DBB63A96CEAB47511DFB690AEE97C0E1953D6098A0C34FDF266D8387BBD"
+                  },
+                  {
+                      "file":  "skill\\validate_skill.py",
+                      "bytes":  827,
+                      "sha256":  "52127C95490A62BC9342082B71FF9C6E105355C7230DBCC066FFC8F8FA9A831D"
+                  },
+                  {
+                      "file":  "__pycache__\\moodle_browser.cpython-313.pyc",
+                      "bytes":  10202,
+                      "sha256":  "DDA8FB92B3BA90C1097A8D17CCA8CCA3DB837A1ACB93FCF8E5157EC0D208A8EC"
+                  },
+                  {
+                      "file":  "__pycache__\\moodle_client.cpython-313.pyc",
+                      "bytes":  28475,
+                      "sha256":  "85730D1DC9D5A833266843B72DD5BB50B79D09CD4E681CAA0259547A43C4BE6E"
+                  },
+                  {
+                      "file":  "__pycache__\\moodle_drive.cpython-313.pyc",
+                      "bytes":  18840,
+                      "sha256":  "DADF105207D3BBC97382029253EC79037689322667D16E6E2DC1FAF0B38B073E"
+                  },
+                  {
+                      "file":  "__pycache__\\moodle_embed_visibility.cpython-313.pyc",
+                      "bytes":  4654,
+                      "sha256":  "9D71D2AA0874C098D9DA69228FF31C7815670C24F39C3AAEF5D7D7B5A6D33516"
+                  },
+                  {
+                      "file":  "__pycache__\\moodle_extended.cpython-313.pyc",
+                      "bytes":  26865,
+                      "sha256":  "0DB2AC089B26CBE26D2995892FCC8AF8D92E7A7B47364AAB66CB8FFE8C236F07"
+                  },
+                  {
+                      "file":  "__pycache__\\moodle_h5p.cpython-313.pyc",
+                      "bytes":  17747,
+                      "sha256":  "2DE23098FB6CE4759E380CDF50758C507D292B6E23F446525998C5D846508D99"
+                  },
+                  {
+                      "file":  "__pycache__\\moodle_hybrid.cpython-313.pyc",
+                      "bytes":  22525,
+                      "sha256":  "C6E23E8411B42CFA1F6FFB48C4372E586063596D2C6559EC31D4A16F98296AD4"
+                  },
+                  {
+                      "file":  "__pycache__\\moodle_lessons.cpython-313.pyc",
+                      "bytes":  12810,
+                      "sha256":  "F62C2206F61EDB34DEEC8100FA1C562A26E8F6245D9FEC50A674521DF01F4552"
+                  },
+                  {
+                      "file":  "__pycache__\\moodle_materials.cpython-313.pyc",
+                      "bytes":  27823,
+                      "sha256":  "4F083F6E84BB086C3137D42D7CC0DF6FD7F0659118FA63EDEA38C730E84D089B"
+                  },
+                  {
+                      "file":  "__pycache__\\moodle_ocr.cpython-313.pyc",
+                      "bytes":  6143,
+                      "sha256":  "A366BA88EB059347AC042C0005D9E1363513F40CEA74BD4E4267E43C9B2FA811"
+                  },
+                  {
+                      "file":  "__pycache__\\moodle_ocr_worker.cpython-313.pyc",
+                      "bytes":  4202,
+                      "sha256":  "D74890658B40EE96559726A3BE976226CD73E0A983E3CD2166E6B9623B3A40EC"
+                  },
+                  {
+                      "file":  "__pycache__\\moodle_ppt_worker.cpython-313.pyc",
+                      "bytes":  4729,
+                      "sha256":  "83D786FFA155972188B7BC454E3920E6770BCAB20030BB78B813AA92D683B7DE"
+                  },
+                  {
+                      "file":  "__pycache__\\moodle_slides.cpython-313.pyc",
+                      "bytes":  21949,
+                      "sha256":  "8B7943B0B853B3CF1E36B7C853FD168EC68F18E47ED06A39D11D44A322FA3BA9"
+                  },
+                  {
+                      "file":  "__pycache__\\moodle_videos.cpython-313.pyc",
+                      "bytes":  20478,
+                      "sha256":  "808947D13627AF8EAE6700B01CD4416C5FEC4687F07A43CEC43DE13433A2888D"
+                  },
+                  {
+                      "file":  "__pycache__\\moodle_yadisk.cpython-313.pyc",
+                      "bytes":  23130,
+                      "sha256":  "1A8B7C443E103F08DC9865BC8F8B002964D605474BEB622E87C171B8D7C71E10"
+                  }
+              ]
+}
